@@ -1,2 +1,3 @@
-# conciencia
-A piece of code I made in C for a propject
+# Conciencia
+
+This program was designed with RobotC for LEGO MINDSTORMS EV3
